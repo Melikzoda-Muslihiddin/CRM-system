@@ -1,0 +1,182 @@
+{
+  "users": [
+    {
+      "fullName": "Eduardo Raul",
+      "email": "Judy1Mann@gmail.com",
+      "contacts": {
+        "phone": "951.627.2970 x5569 1234",
+        "address": "Chesapeake Adress"
+      },
+      "job": {
+        "company": "Welch - Harvey pop",
+        "description": "New red Table with ergonomic design for spherical comfort plus+++"
+      },
+      "id": "1"
+    },
+    {
+      "id": "3",
+      "fullName": "Lorraine McDermott",
+      "age": 5,
+      "email": "Kristopher_Lehner8@hotmail.com",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/8.jpg",
+      "contacts": {
+        "phone": "535-382-0292",
+        "address": "Sawaynton"
+      },
+      "job": {
+        "company": "Hettinger LLC",
+        "description": "Powlowski, Gusikowski and Considine's most advanced Pants technology"
+      }
+    },
+    {
+      "id": "5",
+      "fullName": "Flora McDermott",
+      "age": 91,
+      "email": "Dovie.Schroeder80@yahoo.com",
+      "avatar": "https://avatars.githubusercontent.com/u/38451707",
+      "contacts": {
+        "phone": "(966) 888-4341 x10040",
+        "address": "East Hubertton"
+      },
+      "job": {
+        "company": "Bashirian LLC",
+        "description": "Savor the fluffy essence in our Shirt, designed for culinary adventures"
+      }
+    },
+    {
+      "id": "6",
+      "fullName": "Jimmie Lind",
+      "age": 47,
+      "email": "Bella10@hotmail.com",
+      "avatar": "https://avatars.githubusercontent.com/u/19824418",
+      "contacts": {
+        "phone": "404-688-0466 x3952",
+        "address": "New Birdie"
+      },
+      "job": {
+        "company": "Powlowski, Bradtke and Buckridge",
+        "description": "Innovative Sausages featuring old technology and Aluminum construction"
+      }
+    },
+    {
+      "id": "7",
+      "fullName": "Floyd Ullrich",
+      "age": 17,
+      "email": "Mylene_Oberbrunner@hotmail.com",
+      "avatar": "https://avatars.githubusercontent.com/u/23203144",
+      "contacts": {
+        "phone": "447.364.2794 x3783",
+        "address": "East Madonnashire"
+      },
+      "job": {
+        "company": "Pfeffer Inc",
+        "description": "Professional-grade Towels perfect for pleased training and recreational use"
+      }
+    },
+    {
+      "id": "8",
+      "fullName": "Adrian Hessel",
+      "age": 72,
+      "email": "Leonie.Muller@gmail.com",
+      "avatar": "https://avatars.githubusercontent.com/u/53128544",
+      "contacts": {
+        "phone": "(909) 549-7323 x46328",
+        "address": "Miami"
+      },
+      "job": {
+        "company": "Christiansen, Bahringer and Hauck",
+        "description": "Discover the official new Shoes with an exciting mix of Silk ingredients"
+      }
+    },
+    {
+      "id": "9",
+      "fullName": "Mr. Albert Greenholt",
+      "age": 20,
+      "email": "Finn29@gmail.com",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/4.jpg",
+      "contacts": {
+        "phone": "352-935-5018 x752",
+        "address": "Berwyn"
+      },
+      "job": {
+        "company": "Morissette, Halvorson and Wiza",
+        "description": "Our savory-inspired Salad brings a taste of luxury to your spherical lifestyle"
+      }
+    },
+    {
+      "id": "10",
+      "fullName": "Monica Gerlach",
+      "age": 74,
+      "email": "Anastacio.Dibbert@hotmail.com",
+      "avatar": "https://avatars.githubusercontent.com/u/7178628",
+      "contacts": {
+        "phone": "1-977-403-2804 x1917",
+        "address": "East Markview"
+      },
+      "job": {
+        "company": "Reichel, DuBuque and Effertz",
+        "description": "Our moist-inspired Chair brings a taste of luxury to your unsteady lifestyle"
+      }
+    },
+    {
+      "id": "11",
+      "fullName": "Jana Kessler",
+      "age": 82,
+      "email": "Odie_Reichel61@gmail.com",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/99.jpg",
+      "contacts": {
+        "phone": "952-615-5794",
+        "address": "Port Alvinaland"
+      },
+      "job": {
+        "company": "Prohaska, Emard and Daugherty",
+        "description": "New lime Mouse with ergonomic design for intrepid comfort"
+      }
+    },
+    {
+      "id": "12",
+      "fullName": "Raymond Cassin",
+      "age": 26,
+      "email": "Roderick.Weissnat22@yahoo.com",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/79.jpg",
+      "contacts": {
+        "phone": "1-358-622-8462 x26236",
+        "address": "Bergstromworth"
+      },
+      "job": {
+        "company": "Parker, Schulist and Treutel",
+        "description": "The Buster Shoes is the latest in a series of lanky products from Walsh"
+      }
+    },
+    {
+      "fullName": "Muslim Melikov",
+      "email": "johndoe@gmail.com",
+      "age": 64,
+      "avatar": "https://i.pravatar.cc/150?u=johndoe%40gmail.com",
+      "contacts": {
+        "phone": "+992000000000",
+        "address": "Dushanbe"
+      },
+      "job": {
+        "company": "Soft-Club",
+        "description": "Frontend developer"
+      },
+      "id": "QYP_Ofpq8pg"
+    },
+    {
+      "fullName": "Muslim Melikov",
+      "email": "johndoe@gmail.com",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/32.jpg",
+      "contacts": {
+        "phone": "+992000000000",
+        "address": "Dushanbe"
+      },
+      "job": {
+        "company": "Soft-Club",
+        "description": "Frontend developer"
+      },
+      "id": "109foHqumcM"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
