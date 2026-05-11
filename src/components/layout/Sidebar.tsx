@@ -60,8 +60,12 @@ export default function Sidebar() {
       {/* Навигация */}
       <nav className="flex-1 px-3 py-4 space-y-1">
         {navItems.map((item) => {
-          // Активный пункт — если текущий URL начинается с href пункта
-          const isActive = pathname.startsWith(item.href);
+          // Активный пункт:
+          // — для '/dashboard' используем точное совпадение, иначе он будет активен на всех вложенных роутах
+          // — для остальных используем startsWith
+          const isActive = item.href === '/dashboard'
+            ? pathname === '/dashboard'
+            : pathname.startsWith(item.href);
 
           return (
             <Link
